@@ -4,12 +4,12 @@
 // @version       1.0
 // @namespace     http://quickmediasolutions.com
 // @description   Highlights <code> elements contained in chat messages.
-// @include       http://chat.stackoverflow.com/rooms/*
-// @include       http://chat.stackoverflow.com/transcript/*
-// @include       http://chat.meta.stackoverflow.com/rooms/*
-// @include       http://chat.meta.stackoverflow.com/transcript/*
-// @include       http://chat.stackexchange.com/rooms/*
-// @include       http://chat.stackexchange.com/transcript/*
+// @include       https://chat.stackoverflow.com/rooms/*
+// @include       https://chat.stackoverflow.com/transcript/*
+// @include       https://chat.meta.stackexchange.com/rooms/*
+// @include       https://chat.meta.stackexchange.com/transcript/*
+// @include       https://chat.stackexchange.com/rooms/*
+// @include       https://chat.stackexchange.com/transcript/*
 // ==/UserScript==
 
 /* Embed the style rule on the page. */
